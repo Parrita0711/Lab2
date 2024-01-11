@@ -1,0 +1,35 @@
+fillVector took 2254025 microseconds.
+printVector took 917 microseconds.
+saveVectorToBinaryFile took 954 microseconds.
+loadVectorFromBinaryFile took 27489 microseconds.
+printVector after loading from the binary file took 9706 microseconds.
+fillVector took 17574581 microseconds.
+printVector took 1212 microseconds.
+saveVectorToBinaryFile took 810 microseconds.
+loadVectorFromBinaryFile took 161 microseconds.
+printVector after loading from the binary file took 1124 microseconds.
+fillVector took 40687957 microseconds.
+printVector took 1154 microseconds.
+saveVectorToBinaryFile took 688 microseconds.
+loadVectorFromBinaryFile took 877 microseconds.
+printVector after loading from the binary file took 1460 microseconds.
+fillVector took 3721494 microseconds.
+printVector took 1027 microseconds.
+saveVectorToBinaryFile took 785 microseconds.
+loadVectorFromBinaryFile took 1189 microseconds.
+printVector after loading from the binary file took 995 microseconds.
+fillVector took 4071251 microseconds.
+printVector took 1189 microseconds.
+saveVectorToBinaryFile took 921 microseconds.
+loadVectorFromBinaryFile took 141 microseconds.
+printVector after loading from the binary file took 1067 microseconds.
+Tiempo en cargar la matriz:  took 3891983 microseconds.
+Tiempo en imprimir la matriz:  took 4333 microseconds.
+Tiempo en guardar la matriz en el archivo binario:  took 1670 microseconds.
+Tiempo en cargar la matriz desde el archivo binario:  took 1417 microseconds.
+Tiempo en imprimir la matriz desde el archivo binario:  took 2183 microseconds.
+Tiempo en cargar la matriz: 1747518 microseconds.
+Tiempo en imprimir la matriz: 1029 microseconds.
+Tiempo en guardar la matriz en el archivo binario: 988 microseconds.
+Tiempo en cargar la matriz desde el archivo binario: 3598 microseconds.
+Tiempo en imprimir la matriz desde el archivo binario: 1033 microseconds.
